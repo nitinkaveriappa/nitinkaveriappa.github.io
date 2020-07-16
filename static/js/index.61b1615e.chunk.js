@@ -1,0 +1,2 @@
+(this["webpackJsonpnitinkaveriappa.github.io"]=this["webpackJsonpnitinkaveriappa.github.io"]||[]).push([[0],{59:function(t,a,i){"use strict";i.r(a);var e=i(0),n=i.n(e),p=function(){return n.a.createElement(n.a.Fragment,null,"React Boilerplate Nk")};a.default=p}}]);
+//# sourceMappingURL=index.61b1615e.chunk.js.map
